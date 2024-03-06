@@ -1,0 +1,26 @@
+img {
+    margin-right: 10px;
+    width: 80px;
+    height: 30px;
+    
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.conteudo {
+    padding: 20px;
+}
+
+.rodape {
+    background-color: #333; /* Cor de fundo do rodapé */
+    color: #fff; /* Cor do texto no rodapé */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
